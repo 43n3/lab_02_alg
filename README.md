@@ -76,10 +76,10 @@ lab_02/
 ## Блок-схемы
 
 ### DFS (Поиск компонент связности)
-![DFS Flowchart](diagrams/dfs_flowchart-2.png)
+![DFS Flowchart](diagrams/dfs_flowchart.png)
 
 ### Heap Sort
-![Heap Sort Flowchart](diagrams/heapsort_flowchart-2.png)
+![Heap Sort Flowchart](diagrams/heapsort_flowchart.png)
 
 ---
 
