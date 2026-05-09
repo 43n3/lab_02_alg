@@ -31,8 +31,8 @@ lab_02/
 │   ├── tree_algo.py     — BST (вставка, поиск, удаление) + Heap Sort
 │   └── main.py          — запуск всех задач варианта
 ├── diagrams/
-│   ├── diagrams/dfs_flowchart-2.png
-│   └── diagrams/heapsort_flowchart-2.png
+│   ├── diagrams/dfs_flowchart.png
+│   └── diagrams/heapsort_flowchart.png
 └── README.md
 ```
 
